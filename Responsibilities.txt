@@ -1,0 +1,60 @@
+Olaru Gabriel
+  - Integration
+  - Configure TensorFlow to work with custom data.
+  
+0Vlad Iulian Alexandru
+ - Google+ API
+ - Integration
+ - Create custom output for TensorFlow
+ 
+Barsan Ionut Barsan
+ - Twitter API
+ - Integration
+ - Create custom output for TensorFlow
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
