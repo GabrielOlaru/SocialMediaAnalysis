@@ -1,5 +1,5 @@
  
-Barsan Ionut Barsan
+Barsan Ionut Marius
  - Twitter API
  - Integration
  - Create custom output for TensorFlow
