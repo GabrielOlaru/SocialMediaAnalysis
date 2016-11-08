@@ -2,7 +2,7 @@ Olaru Gabriel
   - Integration
   - Configure TensorFlow to work with custom data.
   
-0Vlad Iulian Alexandru
+Vlad Iulian Alexandru
  - Google+ API
  - Integration
  - Create custom output for TensorFlow
